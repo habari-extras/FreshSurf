@@ -1,5 +1,6 @@
 <?php
-/*Fresh Surf
+/**
+ * Fresh Surf
  * A plugin to show your most recent del.icio.us posts
  */
 
