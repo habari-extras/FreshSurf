@@ -1,0 +1,11 @@
+<plugin>
+	<name>Fresh Surf</name>
+	<version>0.1</version>
+	<url>http://habariproject.org</url>
+	<author>Habari Community</author>
+	<authorurl>http://habariproject.org/</authorurl>
+	<license>Apache License 2.0</license>
+	<description>Recent del.icio.us posts</description>
+	<copyright>2008</copyright>
+</plugin>
+
